@@ -1,5 +1,5 @@
-# ETLAB
-LLM Council
+#LLM Council
+
 A Consensus-Based Question Answering System Using Multiple LLM Agents
 
 Overview
